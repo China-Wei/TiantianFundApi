@@ -19,7 +19,7 @@ export default defineUserConfig({
       },
       {
         text: 'Github',
-        link: 'https://github.com/kouchao/TiantianFundApi',
+        link: 'https://github.com/zhenwei/TiantianFundApi',
       },
     ],
   }),
